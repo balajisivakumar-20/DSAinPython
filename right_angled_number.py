@@ -1,3 +1,4 @@
+#right angled numbers pattern
 n = 5
 for i in range(n):
     row = ""

@@ -1,3 +1,4 @@
+#right angled star pattern
 n = 4
 for i in range(n):
     row = " "
